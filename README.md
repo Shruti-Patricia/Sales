@@ -1,3 +1,4 @@
+# Sales
 Welcome to the Sales Dashboard project! 
 This project aims to provide a comprehensive and visually appealing representation of sales data using Microsoft Excel. 
 The dataset used for this project was sourced from Kaggle and underwent thorough cleaning to ensure data integrity.
